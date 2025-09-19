@@ -30,8 +30,8 @@ It reads phone numbers from an Excel file (contacts.xlsx) and sends a customizab
 ## Setup Instructions
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/whatsapp-auto-bot.git
-   cd whatsapp-auto-bot
+   git clone https://github.com/OsandaLakshitha/WhatsappMessageAutomationForBrave.git
+   cd WhatsappMessageAutomationForBrave
 
 2. Download matching ChromeDriver for Brave:
    - Go to: https://googlechromelabs.github.io/chrome-for-testing/
